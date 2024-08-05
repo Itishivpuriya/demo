@@ -1,2 +1,2 @@
 # demo
-demo git and gihub file
+demo git and gihub file.
